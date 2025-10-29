@@ -17,7 +17,6 @@ public class City {
         return this.province;
     }
 
-    //test
 
     // To make "contains" work properly in tests
     @Override
